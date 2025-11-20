@@ -1,0 +1,11 @@
+# 自動生成ファイル
+*.log
+
+# macOS のゴミファイル
+.DS_Store
+
+# Node.js を使う時のフォルダ（後で使うことがある）
+node_modules/
+
+# 秘密情報（API鍵などは絶対にGitに入れてはいけない）
+.env
